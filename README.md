@@ -22,7 +22,7 @@ Nossa ideia é falar primeiramente aos desenvolvedores de softwares, entretando 
 
 ## Vídeos
 
-1. O quê é software legado? [planejamento](https://github.com/php-brasil/software-legado/blob/master/definicao-de-software-legado.md) | video (em breve)
+1. [O quê é software legado?](https://www.youtube.com/watch?v=wkay4-BEV-g)
 
 ## Tópicos para discussão sobre manutenção de software legado
 
