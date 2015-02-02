@@ -25,6 +25,10 @@ Nossa ideia é falar primeiramente aos desenvolvedores de softwares, entretanto 
 1. [O que é software legado?](https://www.youtube.com/watch?v=wkay4-BEV-g)
 2. [Quando descartar um software legado?](https://www.youtube.com/watch?v=eurFEFbGe6w)
 
+## Playlist automática com todos os vídeos da série
+
+[Manutenção de software legado](https://www.youtube.com/watch?v=wkay4-BEV-g&list=PLRX4OtWY_G7OqdYP4E3pi7B4v1tSs0FX7)
+
 ## Tópicos para discussão sobre manutenção de software legado
 
 1. **Pré abordagem** - estudando o software, arquitetura, dependências, etc.
