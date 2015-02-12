@@ -24,6 +24,7 @@ Nossa ideia é falar primeiramente aos desenvolvedores de softwares, entretanto 
 
 1. [O que é software legado?](https://www.youtube.com/watch?v=wkay4-BEV-g)
 2. [Quando descartar um software legado?](https://www.youtube.com/watch?v=eurFEFbGe6w)
+3. [Como compreender um software legado?](https://www.youtube.com/watch?v=F254kPXXXeU)
 
 ## Playlist automática com todos os vídeos da série
 
